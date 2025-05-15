@@ -5,6 +5,10 @@ This repository is a collection of various HTML-based web projects I've been wor
 * 📄 Resume: A digital version of my resume, showcasing my skills and experience.
 * 📝 Job Application Form: A template for a customizable job application form.
 * 🎨 Art Store: A basic e-commerce website concept for showcasing and selling artwork.
+* 🌷 Blooming Flower: A visually engaging website demonstrating an animation of a flower blooming.
+* ✨ Parallax Website: A modern website showcasing the parallax scrolling effect for an immersive user experience.
+ 
+
 
 Feel free to explore each project and see what they have to offer! 👀
 
