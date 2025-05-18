@@ -44,7 +44,7 @@ Simply open the `index.html` file within each project's directory in your web br
 
 ## ✨ Contributions
 
-While this is primarily a personal portfolio of projects, feel free to reach out if you have any suggestions or feedback! 😊
+While this is primarily a personal portfolio of projects, feel free to reach out if you have any suggestions or feedback! 
 
 ## 🔗 Links
 
