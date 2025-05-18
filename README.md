@@ -10,7 +10,7 @@ This repository is a collection of various HTML-based web projects I've been wor
  
 
 
-Feel free to explore each project and see what they have to offer! 👀
+Feel free to explore each project and see what they have to offer! 
 
 ## 📂 Project Structure
 
