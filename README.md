@@ -46,9 +46,4 @@ Simply open the `index.html` file within each project's directory in your web br
 
 While this is primarily a personal portfolio of projects, feel free to reach out if you have any suggestions or feedback! 
 
-## 🔗 Links
-
-[Link to your live Resume (if deployed)]
-[Link to a live demo of the Art Store (if deployed)]
-
 Thank you for visiting! 🎉
